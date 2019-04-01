@@ -1,12 +1,12 @@
-# _Lyft Clone_
+# _Angular API_
 
-####  _This application is a clone of the Lyft website._
+####  _This application uses Angular to make an API call._
 
 #### By _**Riley Benson**_
 
 ## Description
 
-_This application is a clone of the Lyft website._
+_This application uses Angular to make an API call._
 
 ## Setup/Installation Requirements
 
@@ -15,17 +15,10 @@ _This application is a clone of the Lyft website._
 * _Run 'npm install' in your preferred terminal(node.js must be downloaded on the computer)._
 * _run 'ng serve --open' in your preferred terminal to launch the application in a web browser._
 
-## Completed Features
-
-_So far all the contents of the Lyft landing page have been completed. For the most part they are formatted correctly, however they still need styles added to them. The landing page is split into two components. There is the main body component, which takes up most of the page, and the header component, which will just display with a fixed position at the top of the page._
-
-## Feature To Be Added
-
-_First, the styles need to be added to the landing page so it looks more presentable. Then, the various click and hover functions need to be added to make the page interactable. After that, the sign in page needs to be completed and added so that users can sign in and stay signed in._
 
 ## Known Bugs
 
-_There are many know bugs._
+_There are no know bugs._
 
 ## Support and contact details
 
